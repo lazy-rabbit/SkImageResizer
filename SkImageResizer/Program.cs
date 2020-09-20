@@ -60,3 +60,14 @@ namespace SkImageResizer
         }
     }
 }
+
+
+/*
+同步執行花費時間: 12433 ms
+非同步的花費時間: 19 ms
+效能提升 99.85%
+
+C:\Projects\20200913\SkImageResizer\SkImageResizer\bin\Debug\netcoreapp3.1\SkImageResizer.exe (處理序 30700) 已結束，出 現代碼 0。
+按任意鍵關閉此視窗…
+
+*/
